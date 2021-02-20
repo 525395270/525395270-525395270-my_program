@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:17
+#EXTINF:16.800000,
+https://cdn.jsdelivr.net/gh/525395270/my_program@main/abc002.450flk6fs2k0.jpg
+#EXTINF:16.666667,
+https://cdn.jsdelivr.net/gh/525395270/my_program@main/abc001.3l47f5huwg80.jpg
+#EXTINF:10.000000,
+https://cdn.jsdelivr.net/gh/525395270/my_program@main/abc000.3v84nb3fy2e0.jpg
+
+
+#EXT-X-ENDLIST
